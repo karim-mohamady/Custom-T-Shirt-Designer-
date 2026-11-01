@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Custom - Premium Oversized T-Shirt Studio",
+  "description": "High-performance interactive custom T-shirt designer and e-commerce prototype with real-time canvas editing and local order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
